@@ -10,12 +10,16 @@
 <a href="https://linkedin.com/in/manarkhaledx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manarkhaledx" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manxr" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/manxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manxr" height="30" width="40" /></a>
+<a href="https://vjudge.net/user/Manxr" target="blank"><img align="center" src="![303619273_450614343776273_4312090158253002764_n](https://user-images.githubusercontent.com/96601859/235364522-4c8c8755-6594-43e0-bd45-5099863774b7.png)
+" alt="manxr" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=A190F7&width=435&lines=Hello+World!;I'm+a+Software+Engineer+%F0%9F%92%BB)](https://git.io/typing-svg) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manarkhaledx&label=Profile%20views&color=ab6ede&style=flat" alt="manarkhaledx" /> </p>
+
 
 

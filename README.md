@@ -21,4 +21,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manarkhaledx&label=Profile%20views&color=ab6ede&style=flat" alt="manarkhaledx" /> </p>
 
 
+----------------------------
 
+
+<div align=right>
+
+  ![](https://img.shields.io/static/v1?label=Discord&message=manx.r&color=5865F2&logo=discord&logoColor=fff)
+
+</div>

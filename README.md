@@ -25,6 +25,9 @@
 
 <div align=right>
 
+[![Linkedin: Manar](https://img.shields.io/badge/-Manar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in](https://www.linkedin.com/in/manarkhaledx/)-p-singh/)](https://www.linkedin.com/in/manarkhaledx/)
+
+![GitHub followers](https://img.shields.io/github/followers/manarkhaledx?label=Follow&style=social)
   ![](https://img.shields.io/static/v1?label=Discord&message=manx.r&color=5865F2&logo=discord&logoColor=fff)
 
 </div>

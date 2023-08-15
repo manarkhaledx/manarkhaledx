@@ -1,6 +1,6 @@
 <h1 align="center">💻 Hello, I'm ManarKhaled! 🌻</h1>
 <p align="center">
-  <img src="https://67.media.tumblr.com/dde6842665643d3f9e6055430be73e85/tumblr_o57llwxo4X1twzlewo1_1280.gif" alt="Coder GIF" width="380" height="280">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coder GIF" width="500" height="280">
 </p>
 <br/>
 <p align="center">
@@ -12,6 +12,9 @@
 <a href="https://codeforces.com/profile/manxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manxr" height="30" width="40" /></a>
 
 
+## GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manarkhaledx&show_icons=true&theme=dark)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
